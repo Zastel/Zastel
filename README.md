@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a C# developper, slowly learning C++. I like low level stuff, embedded systems, and high performance solutions.
+
 <!--
 **Zastel/Zastel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
